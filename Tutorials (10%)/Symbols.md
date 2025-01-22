@@ -1,3 +1,5 @@
+#### Symbols
+
 For better communication, we would like to donate the following symbols. 
 
 - **W**: The teaching week. For example, ``W1`` stands for the first teaching week of the second semester of the 2024-2025 academic year. 
