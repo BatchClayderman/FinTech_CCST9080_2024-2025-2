@@ -1,3 +1,5 @@
+#### HKU Plagiarism Policy
+
 Please note the following revised policy on "Plagiarism" from The University of Hong Kong. 
 
 **GUIDELINES ON HANDLING CASES RELATED TO PLAGIARISM**
