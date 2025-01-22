@@ -17,7 +17,7 @@ There are five available tutorial sessions each Monday and five each Tuesday. Pl
 | S9 | Tuesday | 14:30 | 15:20 | MB125 |
 | S10 | Tuesday | 15:30 | 16:20 | MB125 |
 
-The timetable for all tutorials is shown below. We will inform you if there are updates. 
+The timetable for all tutorials is shown below. We will update you if there are any changes. 
 
 | Tutorial | Week | Monday | Tuesday | Remark |
 | - | - | - | - | - |
