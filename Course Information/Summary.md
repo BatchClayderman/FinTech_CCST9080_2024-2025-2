@@ -7,6 +7,7 @@
 #### Teaching Assistants
 
 **Alphabetical Names**: Yifeng Lin, Zhikang Xie, Yazheng Yang, Yuer Yang
-**Email**: Please view in HKU Moodle
+**Perferred Email**: Please view in HKU Moodle
+**Alternative Emails**: Please view in HKU Moodle
 
 For more information about this course, please refer to [this webpage](https://commoncore.hku.hk/ccst9080/) or [this GitHub repository](https://github.com/BatchClayderman/CCST9080_FinTech). 
