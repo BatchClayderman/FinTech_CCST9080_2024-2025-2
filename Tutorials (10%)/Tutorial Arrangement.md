@@ -2,7 +2,7 @@
 
 Students need to attend **ONE** tutorial session face-to-face **EVERY WEEK** to accomplish the **10** tutorials required in this course. The overall average grade of all the tutorials (except the quiz and the final project presentation) counts as 10% of the final grade. 
 
-There are five available tutorial sessions each Monday and five each Tuesday. Please pick a suitable time to register. Selections need to be done from 0:00 on January 23rd to 23:59 on January 26th. Every tutorial session is set with a maximum limitation of 13 students, and it works as **FIRST COME FIRST SERVE**. You can change your tutorial session multiple times during the opening period. 
+There are five available tutorial sessions each Monday and five each Tuesday. Please pick a suitable tutorial session to register. Selections need to be done from 0:00 on January 23rd to 23:59 on January 26th. Every tutorial session is set with a maximum limitation of 13 students during the registry period, which works as **FIRST COME FIRST SERVE**. You can change your tutorial session multiple times during the opening period. Currently, the registry system is closed. 
 
 | Session | Weekday | Start | End | Venue |
 | - | - | - | - | - |
