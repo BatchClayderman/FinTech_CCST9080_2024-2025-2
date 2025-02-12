@@ -4,6 +4,4 @@ As we have planned so far, there is only one assignment (namely Assignment 1), o
 
 Assignment 1 is a group work while the report writing task is an individual one. The quiz is an individual work in the close-book form. 
 
-To accomplish Assignment 1, there should be 3 or 4 students in each group, which can be the same or different from any tutorial session group and the final project group. If it is very difficult or you do not wish to form a group of 3 or 4, please seek approval from Prof. Yiu and forward the approval emails to TAs. 
-
 We will update you if there are any changes. 
