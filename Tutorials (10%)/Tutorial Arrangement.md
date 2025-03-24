@@ -29,8 +29,8 @@ The timetable for all tutorials is shown below. We will update you if there are 
 | T6 | W9 | March 24th | March 25th | |
 | T7 | W10 | March 31st | April 1st | |
 | T8 | W11 | April 7th | April 8th | |
-| T9 | W12 | April 14th | April 15th | Quiz or Final Project Presentation |
-| T10 | W14 | April 28th | April 29th | Quiz or Final Project Presentation |
+| T9 | W12 | April 14th | April 15th | Quiz |
+| T10 | W14 | April 28th | April 29th | Final Project Presentation |
 
 After the registry, please feel free to contact the teaching assistants (TAs) if you want to move to another session temporarily or permanently. The TAs will approve the cases after consideration. 
 
