@@ -24,3 +24,5 @@ Topic:  
 (4) You can form the final project group with members from different tutorial sessions. Nonetheless, it is highly recommended that most members come from the same tutorial session, such that we can arrange your presentation with minimal conflicts. For groups with members from different tutorial sessions, we will set the tutorial sessions in the tutorial for the final project presentation to the session where most members are from by default. Members from such groups can send requests to TAs to select a suitable tutorial session for the final project presentation. 
 
 (5) If you wish to change the final project information like topics and final project group members after the registry, please send your updated information via email again. We will send an email to inform you whether the update is approved. 
+
+(6) For the final project presentation, students need to have a draft report and some slides ("*.ppt", "*.pptx", or "*.pdf") during the presentation. TAs will comment on each report to help improve its quality. Please revise your reports accordingly after the presentation. 
