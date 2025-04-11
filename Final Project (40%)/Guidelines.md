@@ -1,6 +1,6 @@
 #### Guidelines
 
-The final project (group project) contributes 40% to the final score (20% presentation + 20% report). Here are some details about the final project. 
+The final project (group project) contributes 40% to the final score (20% f2f presentation + 20% final report). Here are some details about the final project. 
 
 (1) The final project should be teamed up by 3-5 students per final project group. Any topics related to FinTech can be selected as the final project topic. You can refer to but not be limited to the examples provided by Prof. Yiu. If you find it difficult to form a group of 3-5, you can publish an announcement or ask the TAs for arrangements. If you do not wish to form a group of 3-5, please seek approval from Prof. Yiu and forward the approval emails with the whole conversation history to TAs. 
 
